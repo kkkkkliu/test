@@ -1,5 +1,5 @@
 #include <Windows.h>
-
+#include <string>
 LRESULT CALLBACK WndProc(HWND, UINT, WPARAM, LPARAM);
 
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,PSTR szCmdLine,int iCmdShow) {
